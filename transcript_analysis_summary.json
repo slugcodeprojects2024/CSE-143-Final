@@ -1,0 +1,12 @@
+{
+    "total_transcripts": 9521,
+    "total_words_original": "1767747088",
+    "total_words_cleaned": "903253178",
+    "average_reduction": 45.894312572208804,
+    "total_timestamps_removed": "17808856",
+    "total_stage_directions": "22298",
+    "total_repetitive_phrases": "7564726",
+    "total_disfluencies": "3403149",
+    "date_range_start": "1997-10-31 00:00:00",
+    "date_range_end": "2024-11-12 00:00:00"
+}
